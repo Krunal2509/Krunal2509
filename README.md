@@ -1,6 +1,15 @@
-![background](https://github.com/user-attachments/assets/b2bb9834-e930-4ae3-9464-97bb5f560faa)
+<h1 align="center">Hi 👋, I'm Krunal Sojitra</h1>
+<h3 align="center">A software engineer from India</h3>
 
+- 🔭 I’m currently working on [Hostel(Project)](https://github.com/Krunal2509/Hostel.git)
 
-- 👋 Hi, I’m Krunal Sojitra
-- I'm  pursuing my B-Tech at MSU baroda.
-- Learning Skills : java,dsa,web-development
+- 📫 How to reach me **krunal.sojitra2509@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/krunal sojitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krunal sojitra" height="30" width="40" /></a>
+<a href="https://instagram.com/krunal_sojitra25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krunal_sojitra25" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
