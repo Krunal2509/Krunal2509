@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krunal Sojitra</h1>
-<h3 align="center">A software engineer from India</h3>
+![Krunal Sojitra (2)](https://github.com/user-attachments/assets/31d2af5f-4176-4e4f-9085-d1a03eceb57c)
 
 - 🔭 I’m currently working on [Hostel(Project)](https://github.com/Krunal2509/Hostel.git)
 
