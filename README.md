@@ -6,7 +6,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Spring+Boot+%7C+React+%7C+Docker;Always+Willing To Learn +New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Spring+Boot+%7C+React+%7C+Docker;Always+Willing+To+Learn+New+Technologies" alt="Typing SVG" />
 
 </p>
 
@@ -125,9 +125,9 @@ https://github.com/Krunal2509/MegaBlog
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Krunal2509&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Krunal2509&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krunal2509&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Krunal2509&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
