@@ -1,15 +1,170 @@
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krunal_sojitra25) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krunal-sojitra-6ba20630b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDRPFLrKqQCWeTqX%2FQ2sN8w%3D%3D) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krunal.sojitra2509@gmail.com) 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Krunal2509&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Krunal2509&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Krunal2509&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#4F8CC9;">Krunal Sojitra</span>
+</h1>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Spring+Boot+%7C+React+%7C+Docker;Always+Willing To Learn +New+Technologies" />
+
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Krunal2509&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+### 🚀 Building scalable applications with Java & Spring Boot
+
+Passionate about Backend Development, Full Stack Development, and solving real-world problems.
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+- 🎓 Computer Science Engineering Student
+- 💻 Full Stack Java Developer
+- 🚀 Building production-ready applications
+- 📚 Practicing DSA regularly
+- 🎯 Goal: Software Engineer at a Product-Based Company
+
+<br>
+
+---
+
+# 💼 Experience
+
+### Software Engineer Intern
+**Navaera Software Services Pvt. Ltd.**  
+📍 Vadodara, Gujarat  
+📅 May 2026 – June 2026
+
+Worked on an **Employee Onboarding System** using **Spring Boot** and **Nuxt.js**, developing scalable backend services and integrating them with a modern frontend.
+
+#### Key Contributions
+- 🚀 Developed RESTful APIs using **Spring Boot**
+- 💼 Built modules for Candidate Management, Resume Management, and Position Management
+- 👥 Implemented Interview Scheduling and Interview Evaluation workflows
+- 🔐 Integrated JWT-based Authentication and Authorization
+- 📊 Developed ATS Score Calculation and Dashboard functionalities
+
+- 🔄 Integrated backend APIs with Nuxt.js frontend
+- 🐞 Performed bug fixing, testing, and feature enhancements
+- 🌿 Used Git for version control and collaborative development
+
+
+---
+---
+
+# ⚙️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,cpp,c,javascript,typescript" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nuxt" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+</p>
+
+### Dev Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,maven,gradle,postman,linux,idea,vscode" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 📚 BookVerse
+
+Full Stack Online Book Store using Spring Boot, React, JWT Authentication and MySQL.
+
+🔗 Repository:
+https://github.com/Krunal2509/BookVerse
+
+---
+
+### 🔗 TrimLink
+
+Modern URL Shortener built with Servlets, JSP, JDBC and MySQL.
+
+🔗 Repository:
+https://github.com/Krunal2509/TrimLink
+
+---
+
+### 📝 MegaBlog
+
+Blogging Platform built using React, Appwrite and Tailwind CSS.
+
+🔗 Repository:
+https://github.com/Krunal2509/MegaBlog
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Krunal2509&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krunal2509&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Krunal2509&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/Krunal2509">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:krunal.sojitra2509@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Krunal2509&label=Profile+Views&color=3b82f6&style=for-the-badge"/>
+
+</p>
+
+---
+
+<div align="center">
+
+</div>
